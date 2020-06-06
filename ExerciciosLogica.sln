@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosLogica", "ExerciciosLogica\ExerciciosLogica.csproj", "{AD781278-7AB8-423C-9BB6-321DEBB72567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosLogica2", "ExerciciosLogica2\ExerciciosLogica2.csproj", "{09548154-8AE2-4CA0-B2E0-0E6ECC48AC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosLogica3", "ExerciciosLogica3\ExerciciosLogica3.csproj", "{68D59764-25B6-40B7-8AB5-AC721A309B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AD781278-7AB8-423C-9BB6-321DEBB72567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD781278-7AB8-423C-9BB6-321DEBB72567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD781278-7AB8-423C-9BB6-321DEBB72567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09548154-8AE2-4CA0-B2E0-0E6ECC48AC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09548154-8AE2-4CA0-B2E0-0E6ECC48AC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09548154-8AE2-4CA0-B2E0-0E6ECC48AC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09548154-8AE2-4CA0-B2E0-0E6ECC48AC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D59764-25B6-40B7-8AB5-AC721A309B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D59764-25B6-40B7-8AB5-AC721A309B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D59764-25B6-40B7-8AB5-AC721A309B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D59764-25B6-40B7-8AB5-AC721A309B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
